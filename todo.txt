@@ -1,0 +1,6 @@
+Confusion Matrix
+
+Other metrics for Linear/Logistic Regressions
+
+
+Also do Random Forest
